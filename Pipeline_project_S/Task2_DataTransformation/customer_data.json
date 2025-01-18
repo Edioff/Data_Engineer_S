@@ -1,0 +1,8 @@
+[
+    {"Customer ID": 1, "Name": "John Doe", "Total Purchases": 350},
+    {"Customer ID": 2, "Name": "Jane Smith", "Total Purchases": 750},
+    {"Customer ID": 3, "Name": "Alice Johnson", "Total Purchases": 1200},
+    {"Customer ID": 4, "Name": "Bob Brown", "Total Purchases": 480},
+    {"Customer ID": 5, "Name": "Charlie Wilson", "Total Purchases": 520}
+]
+
